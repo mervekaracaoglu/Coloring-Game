@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a094dcb65c8863040bd1fd35e598ad71
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelDatabase: {fileID: 11400000, guid: 1db84af6586510444870b0141c1f2a3c, type: 2}
+  - sessionData: {fileID: 11400000, guid: 96a133454de3a8d4aae3f580372a63dc, type: 2}
+  - levelCellPrefab: {instanceID: 0}
+  - gridContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
